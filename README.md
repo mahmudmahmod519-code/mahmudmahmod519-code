@@ -72,6 +72,22 @@ Desktop application using **Java & GUI**, demonstrating event-driven programming
 ## 🔹 [Python Codes](https://github.com/MahmoudMostafa87/python-codes)
 Useful Python scripts including web scraping, automation, and problem solving.
 
+<div align="center">
+
+<a href="https://github.com/mahmudmahmod519-code/first-project-nest.js">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudmahmod519-code&repo=first-project-nest.js&theme=radical&border_radius=12" />
+</a>
+
+<a href="https://github.com/mahmudmahmod519-code/server_islamatic_deploying">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudmahmod519-code&repo=server_islamatic_deploying&theme=radical&border_radius=12" />
+</a>
+
+<a href="https://github.com/mahmudmahmod519-code/face-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudmahmod519-code&repo=face-detection&theme=radical&border_radius=12" />
+</a>
+
+</div>
+
 ---
 
 # 📊 GitHub Analytics
