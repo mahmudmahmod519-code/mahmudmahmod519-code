@@ -4,9 +4,9 @@
 
 💻 **Backend Developer** | 🎓 **Computer Science Student at Suez Canal University**
 
-![repo](https://github-stats-alpha.vercel.app/api?username={mahmudmahmod519-code})
-
+![[Pranesh's GitHub stats](https://github.com/mahmudmahmod519-code/server_islamatic_deploying)](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&hide=contribs,prs)
 ---
+
 
 ## 🚀 About Me
 I am a **backend developer** with 1 year of experience, focusing on **Nest.js, Express.js, WebSockets, and REST APIs**.  
