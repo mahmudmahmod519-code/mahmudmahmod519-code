@@ -4,6 +4,8 @@
 
 💻 **Backend Developer** | 🎓 **Computer Science Student at Suez Canal University**
 
+![repo](https://github-stats-alpha.vercel.app/api?username={mahmudmahmod519-code})
+
 ---
 
 ## 🚀 About Me
