@@ -4,7 +4,6 @@
 
 💻 **Backend Developer** | 🎓 **Computer Science Student at Suez Canal University**
 
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=mahmudmahmod519-code&hide=contribs,prs&theme=transparent)
 ---
 
 
@@ -74,34 +73,11 @@ Desktop application using **Java & GUI**, demonstrating event-driven programming
 ## 🔹 [Python Codes](https://github.com/MahmoudMostafa87/python-codes)
 Useful Python scripts including web scraping, automation, and problem solving.
 
-<div align="center">
-
-<a href="https://github.com/mahmudmahmod519-code/first-project-nest.js">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudmahmod519-code&repo=first-project-nest.js&theme=radical&border_radius=12" />
-</a>
-
-<a href="https://github.com/mahmudmahmod519-code/server_islamatic_deploying">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudmahmod519-code&repo=server_islamatic_deploying&theme=radical&border_radius=12" />
-</a>
-
-<a href="https://github.com/mahmudmahmod519-code/face-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmudmahmod519-code&repo=face-detection&theme=radical&border_radius=12" />
-</a>
-
-</div>
-
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
-  <h2>📊 GitHub Projects Dashboard</h2>
-  <img src="https://metrics.lecoq.io/mahmudmahmod519-code?template=classic&repositories=1&repositories.batch=100&repositories.affiliations=owner&languages=1&languages.limit=12&languages.sections=most-used&languages.colors=github&languages.details=percentage&activity=1&achievements=1&base=header%2C%20repositories&config.timezone=Africa%2FCairo" />
-</div>
-<div align="center">
-  <h2>📈 GitHub Activity Insight</h2>
-  <img src="https://metrics.lecoq.io/mahmudmahmod519-code?template=activity&activity=1&activity.limit=10&activity.days=30&activity.filter=all&config.timezone=Africa%2FCairo" />
-</div>
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=mahmudmahmod519-code&hide=contribs,prs&theme=transparent)
 
 ---
 
