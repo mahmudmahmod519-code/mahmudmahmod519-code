@@ -75,6 +75,7 @@ Useful Python scripts including web scraping, automation, and problem solving.
 ---
 
 # 📊 GitHub Analytics
+![Repo Metrics](https://metrics.lecoq.io/mahmudmahmod519-code?template=classic&repositories.forks=true&repositories.affiliations=owner&config.timezone=Africa/Cairo&repo=islamatic-server)
 
 <div align="center">
 
