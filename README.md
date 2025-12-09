@@ -2,38 +2,38 @@
 
 # 👋 Hi, I’m Mahmud  
 
-💻 **Backend Developer** | 🎓 **Computer Science Student at Suez Canal University**  
+💻 **Backend Developer** | 🎓 **Computer Science Student at Suez Canal University**
 
 ---
 
 ## 🚀 About Me
 I am a **backend developer** with 1 year of experience, focusing on **Nest.js, Express.js, WebSockets, and REST APIs**.  
 I also have strong skills in **problem solving (C++/SQL)**, **data analysis (Python, Pandas, NumPy, BeautifulSoup)**, and **automation (Telegram bots, web scrapers)**.  
-Currently, I’m expanding my knowledge in **Docker, microservices, and testing best practices**.  
+Currently, I’m expanding my knowledge in **Docker, microservices, and testing best practices**.
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 💻 Languages
+### 💻 Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend & Frameworks  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 📊 Data & Tools
+### 📊 Data & Tools  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge&logo=python&logoColor=white)
@@ -42,51 +42,49 @@ Currently, I’m expanding my knowledge in **Docker, microservices, and testing 
 
 ---
 
+# ⭐ Featured Projects
 
-## 📂 Featured Projects  
-
-### 🔹 [Islamatic Server](https://github.com/MahmoudMostafa87/islamatic-server)  
-Backend server project built with **Node.js/Nest.js** providing RESTful APIs and structured architecture for Islamic content.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudMostafa87&repo=islamatic-server&theme=radical)](https://github.com/MahmoudMostafa87/islamatic-server)  
+## 🔹 [Islamatic Server](https://github.com/MahmoudMostafa87/islamatic-server)
+Backend server built with **Node.js/Nest.js** using clean architecture and modular structure.
 
 ---
 
-### 🔹 [Project for Babies](https://github.com/MahmoudMostafa87/Project-for-babies)  
-Frontend project designed for children, with interactive UI and basic **HTML, CSS, and JavaScript** implementation.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudMostafa87&repo=Project-for-babies&theme=radical)](https://github.com/MahmoudMostafa87/Project-for-babies)  
+## 🔹 [Project for Babies](https://github.com/MahmoudMostafa87/Project-for-babies)
+Interactive front-end project designed for kids using **HTML, CSS, and JavaScript**.
 
 ---
 
-### 🔹 [OOP Java](https://github.com/MahmoudMostafa87/OOP-JAVA)  
-A collection of **Object-Oriented Programming (OOP)** exercises and projects in Java demonstrating classes, inheritance, polymorphism, and encapsulation.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudMostafa87&repo=OOP-JAVA&theme=radical)](https://github.com/MahmoudMostafa87/OOP-JAVA)  
+## 🔹 [OOP Java](https://github.com/MahmoudMostafa87/OOP-JAVA)
+A full collection of Java OOP exercises demonstrating classes, inheritance, polymorphism and abstraction.
 
 ---
 
-### 🔹 [Data Structures (C++)](https://github.com/MahmoudMostafa87/data-Structures)  
-Implementation of fundamental **data structures** in C++ (linked lists, stacks, queues, trees, graphs) with focus on algorithmic efficiency.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudMostafa87&repo=data-Structures&theme=radical)](https://github.com/MahmoudMostafa87/data-Structures)  
+## 🔹 [Data Structures (C++)](https://github.com/MahmoudMostafa87/data-Structures)
+Implementations of linked lists, stacks, queues, trees, and graphs using C++.
 
 ---
 
-### 🔹 [Project Number One](https://github.com/MahmoudMostafa87/project-number-one)  
-Desktop application built with **Java** showcasing GUI development, event-driven programming, and backend logic integration.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudMostafa87&repo=project-number-one&theme=radical)](https://github.com/MahmoudMostafa87/project-number-one)  
+## 🔹 [Project Number One](https://github.com/MahmoudMostafa87/project-number-one)
+Desktop application using **Java & GUI**, demonstrating event-driven programming.
 
 ---
 
-### 🔹 [Python Codes](https://github.com/MahmoudMostafa87/python-codes)  
-Collection of **Python scripts** covering **web scraping (BeautifulSoup)**, algorithm implementations, and problem-solving exercises.  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudMostafa87&repo=python-codes&theme=radical)](https://github.com/MahmoudMostafa87/python-codes)  
+## 🔹 [Python Codes](https://github.com/MahmoudMostafa87/python-codes)
+Useful Python scripts including web scraping, automation, and problem solving.
+
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Analytics
 
-![Mahmud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmudmahmod519-code&show_icons=true&theme=radical)  
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mahmudmahmod519-code&theme=radical&border_radius=8)  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmudmahmod519-code&show_icons=true&theme=radical&border_radius=12"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudmahmod519-code&layout=compact&theme=radical)  
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudmahmod519-code&layout=compact&theme=radical&border_radius=12"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=mahmudmahmod519-code&theme=radical&border_radius=12"/>
+
+</div>
 
 ---
 
@@ -100,24 +98,9 @@ Collection of **Python scripts** covering **web scraping (BeautifulSoup)**, algo
 ## 📫 Contact Me  
 - GitHub: [mahmudmahmod519-code](https://github.com/mahmudmahmod519-code)  
 - LinkedIn: [mahmoud mossad](https://www.linkedin.com/in/mahmoudmossadmohamed/)  
-- Email: [inbox](mailto:mahmoudmustafamahmoud87@gmail.com)  
+- Email: [inbox](mailto:mahmoudmustafamahmoud87@gmail.com)
 
 ---
 
-⚡ *Always learning, always building.* 🚀  
+⚡ *Always learning, always building.* 🚀
 
-
-<!--
-**mahmudmahmod519-code/mahmudmahmod519-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
