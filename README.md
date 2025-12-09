@@ -75,16 +75,10 @@ Useful Python scripts including web scraping, automation, and problem solving.
 ---
 
 # 📊 GitHub Analytics
-![Repo Metrics](https://metrics.lecoq.io/mahmudmahmod519-code?template=classic&repositories.forks=true&repositories.affiliations=owner&config.timezone=Africa/Cairo&repo=islamatic-server)
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahmudmahmod519-code&show_icons=true&theme=radical&border_radius=12"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudmahmod519-code&layout=compact&theme=radical&border_radius=12"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=mahmudmahmod519-code&theme=radical&border_radius=12"/>
-
+  <h2>📊 GitHub Projects Dashboard</h2>
+  <img src="https://metrics.lecoq.io/mahmudmahmod519-code?template=classic&repositories=1&repositories.batch=100&repositories.affiliations=owner&languages=1&languages.limit=12&languages.sections=most-used&languages.colors=github&languages.details=percentage&activity=1&achievements=1&base=header%2C%20repositories&config.timezone=Africa%2FCairo" />
 </div>
 
 ---
