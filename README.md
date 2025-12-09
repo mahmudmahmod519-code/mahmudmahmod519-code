@@ -4,7 +4,7 @@
 
 💻 **Backend Developer** | 🎓 **Computer Science Student at Suez Canal University**
 
-![[Pranesh's GitHub stats](https://github.com/mahmudmahmod519-code/server_islamatic_deploying)](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&hide=contribs,prs)
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=mahmudmahmod519-code&hide=contribs,prs&theme=transparent)
 ---
 
 
