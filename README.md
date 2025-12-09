@@ -78,6 +78,8 @@ Useful Python scripts including web scraping, automation, and problem solving.
 # 📊 GitHub Analytics
 
 ![Stats](https://github-readme-stats-fast.vercel.app/api?username=mahmudmahmod519-code&hide=contribs,prs&theme=transparent)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mahmudmahmod519-code)
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=mahmudmahmod519-code)
 
 ---
 
