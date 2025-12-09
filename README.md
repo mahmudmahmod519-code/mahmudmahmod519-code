@@ -80,6 +80,10 @@ Useful Python scripts including web scraping, automation, and problem solving.
   <h2>📊 GitHub Projects Dashboard</h2>
   <img src="https://metrics.lecoq.io/mahmudmahmod519-code?template=classic&repositories=1&repositories.batch=100&repositories.affiliations=owner&languages=1&languages.limit=12&languages.sections=most-used&languages.colors=github&languages.details=percentage&activity=1&achievements=1&base=header%2C%20repositories&config.timezone=Africa%2FCairo" />
 </div>
+<div align="center">
+  <h2>📈 GitHub Activity Insight</h2>
+  <img src="https://metrics.lecoq.io/mahmudmahmod519-code?template=activity&activity=1&activity.limit=10&activity.days=30&activity.filter=all&config.timezone=Africa%2FCairo" />
+</div>
 
 ---
 
