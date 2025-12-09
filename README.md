@@ -80,6 +80,8 @@ Useful Python scripts including web scraping, automation, and problem solving.
 ![Stats](https://github-readme-stats-fast.vercel.app/api?username=mahmudmahmod519-code&hide=contribs,prs&theme=transparent)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mahmudmahmod519-code)
 ![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=mahmudmahmod519-code)
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=mahmudmahmod519-code&theme=transparent&ring_color=FF4B4B&fire_color=FF4B4B&currStreakLabel=FFFFFF)
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=mahmudmahmod519-code&theme=transparent&ring_color=FF4B4B&fire_color=FF4B4B&currStreakLabel=FFFFFF)
 
 ---
 
