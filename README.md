@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I’m Mahmud  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0C9A00&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Mahmoud+Mossad)](https://git.io/typing-svg)  
 
 💻 **Backend Developer** | 🎓 **Computer Science Student at Suez Canal University**
 
